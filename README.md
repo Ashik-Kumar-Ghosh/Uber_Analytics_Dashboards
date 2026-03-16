@@ -1,5 +1,5 @@
 # 🚖 Uber Analytics Dashboard
-
+![Vehicle Dashboard](Dashboards/Vehicle.png)
 A comprehensive **Uber Analytics Dashboard** designed to analyze ride bookings, revenue performance, customer behavior, and vehicle usage. The dashboard provides interactive insights into operational metrics such as completed rides, cancellations, revenue trends, and customer segmentation.
 This project demonstrates **data visualization, business intelligence, and analytical reporting** using interactive dashboards.
 
